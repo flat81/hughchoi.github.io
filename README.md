@@ -1,2 +1,0 @@
-# hughchoi.github.io
-blog
